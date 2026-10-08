@@ -11,3 +11,9 @@ For example you could
 - stretch
 - talk to your colleagues
 - have a snack
+
+
+## If this does not help
+
+- Have a vacation
+- Get more sleep

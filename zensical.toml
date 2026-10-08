@@ -11,8 +11,6 @@ site_name = "TPMS2PrintPath"
 # edit_uri = "edit/main/docs/"
 
 nav = [
-  { "Get started" = "index.md" },
-  { "Markdown in 5min" = "markdown.md" },
   { "Testbereich TPMS" = "tpms.md" },
   { "Pause" = "break.md" }
 ]
