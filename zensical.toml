@@ -13,7 +13,8 @@ site_name = "TPMS2PrintPath"
 nav = [
   { "Get started" = "index.md" },
   { "Markdown in 5min" = "markdown.md" },
-  { "Testbereich TPMS" = "tpms.md" }
+  { "Testbereich TPMS" = "tpms.md" },
+  { "Pause" = "break.md" }
 ]
 
 # extra_css = ["stylesheets/extra.css"]
