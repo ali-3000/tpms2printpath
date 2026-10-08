@@ -15,5 +15,7 @@ For example you could
 
 ## If this does not help
 
+!!! warning "Do not fall asleep yet!"
+
 - Have a vacation
 - Get more sleep
