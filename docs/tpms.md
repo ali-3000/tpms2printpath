@@ -15,8 +15,12 @@ xxxx
 
 ## Parameters to set
 
-xxx
+Change to `True` or `False` whether you want a gcode and/or plot output.
 
+````
+gcode_output = False
+plot_output = True
+````
 
 === "Schwarz P"
 
