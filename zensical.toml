@@ -11,8 +11,9 @@ site_name = "TPMS2PrintPath"
 # edit_uri = "edit/main/docs/"
 
 nav = [
-  { "Testbereich TPMS" = "tpms.md" },
-  { "Pause" = "break.md" }
+  { "General information" = "generalinformation.md" },
+  { "TPMS2PrintPath" = "tpms.md" },
+  { "Resources" = "resources.md" }
 ]
 
 # extra_css = ["stylesheets/extra.css"]

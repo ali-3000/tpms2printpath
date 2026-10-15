@@ -1,13 +1,16 @@
 ---
-icon: lucide/bird
+icon: lucide/list
 ---
 
-# Get started
+# TPMS2PrintPath
 
-Welcome to this testing page.
-You can find [Pause](break.md)
 
-and
+Welcome to this documentation page. You can find here some collected information on TPMS in general and about the TPMS2PrintPath notebook. 
 
-Short introduction on TPMS here [TPMS](tpms.md)
+1. [General information on TPMS](generalinformation.md)
+2. [TPMS2PrintPath Notebook](tpms.md)
+3. [Resources](resources.md)
+
+
+
 
